@@ -1,7 +1,7 @@
 # LendingClubCaseStudy
 
 ## Objective
-### The objective of this exercise is to identify patterns that indicate a person is likely to default, which can then be used to take  steps such as refusing the loan, lowering the loan amount, or lending (to riskier applicants) at a higher interest rate.
+#### The objective of this exercise is to identify patterns that indicate a person is likely to default, which can then be used to take  steps such as refusing the loan, lowering the loan amount, or lending (to riskier applicants) at a higher interest rate.
 
 ## Steps followed in this exercise
 1. Data Cleaning
